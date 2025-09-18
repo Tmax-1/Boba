@@ -1,0 +1,32 @@
+body {
+    background-color: #7cddf1;
+    font-family: sans-serif;
+    margin: 10px;
+    padding: 10px;
+}
+
+h1.title-heading {
+    text-align: center;
+    color: #000000;
+    background-color: #7cddf1;
+
+}
+
+.my-pic {
+    display: block;
+    margin: 0 auto;        /* Center the image */
+    border: 5px solid #000;
+    border-radius: 15px;   
+}
+
+p {
+    font-size: 18px;
+    color: #000000;
+    line-height: 1.6;
+    text-align: center;
+}
+
+h2 {
+    color: #000000;
+    text-align: center;
+}
