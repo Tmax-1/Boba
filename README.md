@@ -1,2 +1,2 @@
 # boba-
-The is the hackclub boba assinment.
+This is the HackClub boba assignment.
